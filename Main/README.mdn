@@ -1,0 +1,43 @@
+06-Weather Dashboard 
+
+Weather Dashbard was assigned as homework by UC Berkeley coding bootcamp.
+This application emphasizes the use of Javascript to generate a five day weather forecast where you can view daily weather for different cities and save each city searched.
+Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. This weather dashboard runs in the browser and features dynamically updated HTML and CSS.
+ 
+This project has been deployed to GitHub Pages. To test it out yourself, you can follow this deployment link: 
+ https://faitheden1.github.io/Weather-Dashboard/
+
+Prerequisites
+This application was created by using Visual Studio Code. 
+
+Summary
+Combining HTML, CSS and Javascript this application allows the user to view the weather forecast in different cities
+Javascript is used to make dynamic changes to an HTML document
+A search button and saved cities
+The user can view the forecast in different cities by typing in the name of the city in the search bar 
+Once a the search button is entered, a five day forecast for that city will show
+Each city searched is saved on the main page so the user can track their travels
+ 
+ 
+Project Requirements:
+Open Weather API
+Local storage
+ 
+To Execute File:
+Open in browser
+
+Features:
+HTML Pages
+Index.html
+Contains basic user input items and buttons with divs and ids
+Attaches to CSS and JavaScript files
+CSS Page
+Styles.css
+Contains centering and styling for html 
+Javascript Page Contains: Variables, including arrays and value placeholders, search button,  if statements, and functions. 
+ 
+Authors
+Faith Elsen
+Acknowledgments
+UC Berkeley provided project parameters
+
